@@ -1,4 +1,3 @@
-# payment-spliter-atharv-gtb4cec
 # Payment Splitter Contract
 
 ## Overview
