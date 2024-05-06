@@ -1,9 +1,3 @@
-//! Payment splitter contract
-//!
-//! The payment splitter contract allows you to deploy a contract that sets a group of recipients.
-//! The admin can invoke the payment splitting multiple times and split tokens between recipients
-//!
-
 #![no_std]
 
 use soroban_sdk::{
