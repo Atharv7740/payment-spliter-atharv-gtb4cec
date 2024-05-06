@@ -28,13 +28,5 @@ Once initialized, payments can be split among the stakeholders using the `split`
 ## Testing
 The contract includes test cases to ensure its functionality and error handling are working as expected.
 
-## License
-This project is licensed under the [insert license type] License.
-
-## Contributors
-- [Contributor 1](link-to-profile)
-- [Contributor 2](link-to-profile)
-- [Contributor 3](link-to-profile)
-
 ## Contact
-For any inquiries or feedback, please contact [maintainer's name](maintainer's email).
+For any inquiries or feedback, please contact Atharv Tripathi (atharv7740@gmail.com).
